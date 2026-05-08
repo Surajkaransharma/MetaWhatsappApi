@@ -1,0 +1,6 @@
+@MetaWhatsappApi_HostAddress = http://localhost:5063
+
+GET {{MetaWhatsappApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
